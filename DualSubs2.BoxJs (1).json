@@ -171,7 +171,7 @@
 					"items": [
 						{ "key": "ZH", "label": "中文（自动）" },
 						{ "key": "ZH-HANS", "label": "中文（简体）" },
-						{ "key": "ZH-HK", "label": "中文（香港）" },
+						{ "key": "AR", "label": "阿拉伯语" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
 						{ "key": "ES", "label": "Español - 西班牙语（自动）" },
