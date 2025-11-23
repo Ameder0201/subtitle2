@@ -59,7 +59,7 @@
 						{ "key": "DE", "label": "Deutsch - 德语" },
 						{ "key": "FR", "label": "Français - 法语" },
 						{ "key": "TR", "label": "Türkçe - 土耳其语" },
-						{ "key": "AR", "label": "阿拉伯语" }
+						{ "key": "KM", "label": "ភាសាខ្មែរ - 高棉语" }
 					],
 					"desc": "当“副语言”字幕存在时，将生成“副语言/主语言（官方）”的字幕或字幕选项。"
 				},
@@ -150,7 +150,7 @@
 						{ "key": "AUTO", "label": "自动 - Automatic" },
 						{ "key": "ZH", "label": "中文（自动）" },
 						{ "key": "ZH-HANS", "label": "中文（简体）" },
-						{ "key": "ZH-HK", "label": "中文（香港）" },
+						{ "key": "AR", "label": "阿拉伯语" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
 						{ "key": "ES", "label": "Español - 西班牙语（自动）" },
@@ -180,7 +180,7 @@
 						{ "key": "DE", "label": "Deutsch - 德语" },
 						{ "key": "FR", "label": "Français - 法语" },
 						{ "key": "TR", "label": "Türkçe - 土耳其语" },
-						{ "key": "AR", "label": "阿拉伯语" }
+						{ "key": "KM", "label": "ភាសាខ្មែរ - 高棉语" }
 					],
 					"desc": "当“副语言”字幕存在时，将生成“副语言/主语言（官方）”的字幕或字幕选项。"
 				},
@@ -227,7 +227,7 @@
 						{ "key": "AUTO", "label": "自动 - Automatic" },
 						{ "key": "ZH", "label": "中文（自动）" },
 						{ "key": "ZH-HANS", "label": "中文（简体）" },
-						{ "key": "ZH-HK", "label": "中文（香港）" },
+						{ "key": "AR", "label": "阿拉伯语" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
 						{ "key": "ES", "label": "Español - 西班牙语（自动）" },
@@ -236,7 +236,7 @@
 						{ "key": "DE", "label": "Deutsch - 德语" },
 						{ "key": "FR", "label": "Français - 法语" },
 						{ "key": "TR", "label": "Türkçe - 土耳其语" },
-						{ "key": "AR", "label": "阿拉伯语" }
+						{ "key": "KM", "label": "ភាសាខ្មែរ - 高棉语" }
 					],
 					"desc": "仅当源语言识别不准确时更改此选项。"
 				},
@@ -248,7 +248,7 @@
 					"items": [
 						{ "key": "ZH", "label": "中文（自动）" },
 						{ "key": "ZH-HANS", "label": "中文（简体）" },
-						{ "key": "ZH-HK", "label": "中文（香港）" },
+						{ "key": "AR", "label": "阿拉伯语" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
 						{ "key": "ES", "label": "Español - 西班牙语（自动）" },
@@ -257,7 +257,7 @@
 						{ "key": "DE", "label": "Deutsch - 德语" },
 						{ "key": "FR", "label": "Français - 法语" },
 						{ "key": "TR", "label": "Türkçe - 土耳其语" },
-						{ "key": "AR", "label": "阿拉伯语" }
+						{ "key": "KM", "label": "ភាសាខ្មែរ - 高棉语" }
 					],
 					"desc": "请指定翻译歌词的目标语言。"
 				},
