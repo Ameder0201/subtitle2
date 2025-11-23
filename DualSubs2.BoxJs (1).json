@@ -37,7 +37,7 @@
 						{ "key": "KO", "label": "한국어 - 韩语" },
 						{ "key": "DE", "label": "Deutsch - 德语" },
 						{ "key": "FR", "label": "Français - 法语" },
-						{ "key": "TR", "label": "Türkçe - 土耳其语" },
+						{ "key": "TR", "label": "Türkçe - 土耳其语" }
 					],
 					"desc": "当“主语言”字幕存在时，将生成“主语言/副语言（翻译）”与“主语言（外挂）”的字幕或字幕选项。"
 				},
