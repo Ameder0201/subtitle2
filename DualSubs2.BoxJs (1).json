@@ -32,12 +32,7 @@
 						{ "key": "ZH-HK", "label": "中文（香港）" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
-						{ "key": "AR", "label": "阿拉伯语" },
-						{ "key": "JA", "label": "日本語 - 日语" },
-						{ "key": "KO", "label": "한국어 - 韩语" },
-						{ "key": "DE", "label": "Deutsch - 德语" },
-						{ "key": "FR", "label": "Français - 法语" },
-						{ "key": "TR", "label": "Türkçe - 土耳其语" }
+						{ "key": "AR", "label": "阿拉伯语" }
 					],
 					"desc": "当“主语言”字幕存在时，将生成“主语言/副语言（翻译）”与“主语言（外挂）”的字幕或字幕选项。"
 				},
@@ -52,12 +47,6 @@
 						{ "key": "ZH-HK", "label": "中文（香港）" },
 						{ "key": "ZH-HANT", "label": "中文（繁体）" },
 						{ "key": "EN", "label": "English - 英语（自动）" },
-						{ "key": "ES", "label": "Español - 西班牙语（自动）" },
-						{ "key": "JA", "label": "日本語 - 日语" },
-						{ "key": "KO", "label": "한국어 - 韩语" },
-						{ "key": "DE", "label": "Deutsch - 德语" },
-						{ "key": "FR", "label": "Français - 法语" },
-						{ "key": "TR", "label": "Türkçe - 土耳其语" },
 						{ "key": "AR", "label": "阿拉伯语" }
 					],
 					"desc": "当“副语言”字幕存在时，将生成“副语言/主语言（官方）”的字幕或字幕选项。"
